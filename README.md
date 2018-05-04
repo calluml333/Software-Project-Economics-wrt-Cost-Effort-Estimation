@@ -64,7 +64,7 @@ This section contains the k-fols cross-validation function.
 NOTE: it is this function that is set to run by default.
 
 
-### Itertion ###
+### Iteration ###
 
 This section contains the ga_iteration function, which was used to carry out different investigations of the GA's funcitonality, where the GA was required to be run repeatedly a certain amount of times. You can uncomment the specified code at the bottom of this section to run the iteration function.
 
